@@ -23,12 +23,19 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
+MObile view
+
+
+![mobile-view](https://user-images.githubusercontent.com/88828065/193030735-e9016825-9085-4f6e-beab-fddbce55ad4d.PNG)
+
+Desktop view
+![desktop-view](https://user-images.githubusercontent.com/88828065/193030795-be1d9ad1-69a3-4e88-b48e-0eb69700db9b.PNG)
 
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n/hub/fylo-data-storage-with-grid-and-flex-css-nTZlzk8pMR)
+- Live Site URL: [Live site](https://lucky-sunburst-b5a5bc.netlify.app/)
 
 ## My process
 
@@ -81,7 +88,7 @@ The use of css aninamtion
 
 ## Author
 
-- Website - [Hawi Girmachew](https://www.your-site.com)
+- Website - [Hawi Girmachew](https://lucky-sunburst-b5a5bc.netlify.app/)
 - Frontend Mentor - [@Hawigirmahew](https://www.frontendmentor.io/profile/Hawigirmachew)
 - Twitter - [@girmachee_h](https://www.twitter.com/girmachee_h)
 
